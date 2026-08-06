@@ -1,0 +1,6 @@
+{
+  "name": "OCP Smart Maintenance Platform",
+  "description": "Enterprise industrial asset management, predictive maintenance, MTBF/availability KPIs, failure Pareto analytics, and AI copilot for OCP Group.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
